@@ -1,6 +1,5 @@
 body {
     background-color: white;
-    color: rgb(247, 242, 242);
 }
 
 .container {
@@ -24,7 +23,7 @@ body {
     border-radius: 5px;
 }
 
-.line1, .line2, .line3, .overLayMenu {
+.line1, .line2, .line3, .overLayMenu { // hideLine2 
     transition: all 0.5s ease;
 }
 
