@@ -23,7 +23,7 @@ body {
     border-radius: 5px;
 }
 
-.line1, .line2, .line3, .overLayMenu { // hideLine2 
+.line1, .line2, .line3, .overLayMenu {    /* hideline2 မှာ မရေးဘဲ line2 မှာ ရေးတာက အဖွင့်ကော အပိတ်ကော နှေးချင်လို့ hideline2 နဲ့ ရေးရင် အဖွင့်ပဲ နှေးလို့*/
     transition: all 0.5s ease;
 }
 
